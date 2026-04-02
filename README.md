@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=1100&lines=Agentic+orchestration%2C+practical+tools%2C+and+business-minded+tinkering.;Building+systems+for+agents%2C+workflows%2C+and+useful+experiments.;Between+Beijing%2C+Shanghai%2C+and+New+York+this+year+%E2%80%94+available+to+meet+in+London%2C+Lille%2C+and+Paris."
+    src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=1100&lines=Agentic+orchestration%2C+practical+tools%2C+and+business-minded+tinkering.;Building+systems+for+agents%2C+workflows%2C+and+useful+experiments.;Between+Beijing%2C+Shanghai%2C+and+New+York+this+year.;Available+to+meet+in+Lille%2C+London%2C+and+Paris+next+year."
     alt="Typing introduction"
   />
 </p>
@@ -26,8 +26,8 @@
     />
   </a>
   <img
-    src="https://img.shields.io/badge/Meet%20me-London%20%7C%20Lille%20%7C%20Paris-14b8a6?style=for-the-badge&labelColor=0f172a"
-    alt="Meet me in London, Lille, or Paris"
+    src="https://img.shields.io/badge/Meet%20me%20next%20year-Lille%20%7C%20London%20%7C%20Paris-14b8a6?style=for-the-badge&labelColor=0f172a"
+    alt="Meet me next year in Lille, London, or Paris"
   />
 </p>
 
@@ -93,17 +93,33 @@ This profile is less a portfolio of finished products and more a map of what I k
 Exploring  agent workflows, orchestration UX, and operator tooling
 Building   a sharper sense for which experiments deserve to become products
 Watching   the space between specs, agents, and practical business value
-Meeting    London / Lille / Paris
+Meeting    Lille / London / Paris next year
 ```
 
 ## Meet Me In
 
-Available this year in London, Lille, and Paris while based between Beijing, Shanghai, and New York.
+Available next year in Lille, London, and Paris while based between Beijing, Shanghai, and New York this year.
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/sylvain-taverniers/)
-- [GitHub](https://github.com/callme-sy)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sylvain-taverniers/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Sylvain%20T.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://github.com/callme-sy">
+    <img
+      src="https://img.shields.io/badge/GitHub-callme--sy-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"
+      alt="GitHub"
+    />
+  </a>
+</p>
+
+<p align="center">
+  LinkedIn is the best public way to reach me.
+</p>
 
 ## Principles
 
