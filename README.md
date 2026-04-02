@@ -48,62 +48,14 @@ currently:
 
 > I tinker with agent workflows, tooling, and product-shaped ideas with a business bias. I care about systems that feel sharp, useful, and intentional, and I like the moment when an experiment starts looking like a real tool.
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+## About
 
-<h2>About</h2>
-
-<p>
 I am most interested in the layer where orchestration, product thinking, and execution meet.
 That usually means agents, workflows, human-in-the-loop interfaces, and the details that make tools actually usable.
-</p>
 
-<p>
 This profile is less a portfolio of finished products and more a map of what I keep returning to while figuring out what to build next.
-</p>
 
-<h2>My Current Stack</h2>
-
-<ul>
-  <li>
-    <a href="https://github.com/code-yeongyu/oh-my-openagent"><strong>code-yeongyu/oh-my-openagent</strong></a><br />
-    <img src="https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=flat-square&label=stars&color=2563eb" alt="oh-my-openagent stars" /><br />
-    For orchestration ergonomics and how agent workflows can feel more native.
-  </li>
-  <li>
-    <a href="https://github.com/NousResearch/hermes-agent"><strong>NousResearch/hermes-agent</strong></a><br />
-    <img src="https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&label=stars&color=2563eb" alt="hermes-agent stars" /><br />
-    For model-side ideas around capable agent behavior and scaffolding.
-  </li>
-  <li>
-    <a href="https://github.com/Yeachan-Heo/oh-my-codex"><strong>Yeachan-Heo/oh-my-codex</strong></a><br />
-    <img src="https://img.shields.io/github/stars/Yeachan-Heo/oh-my-codex?style=flat-square&label=stars&color=2563eb" alt="oh-my-codex stars" /><br />
-    For execution loops, operator experience, and multi-agent throughput.
-  </li>
-  <li>
-    <a href="https://github.com/obra/superpowers"><strong>obra/superpowers</strong></a><br />
-    <img src="https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=stars&color=2563eb" alt="superpowers stars" /><br />
-    For taste in interfaces, tooling feel, and product energy.
-  </li>
-  <li>
-    <a href="https://github.com/Fission-AI/OpenSpec"><strong>Fission-AI/OpenSpec</strong></a><br />
-    <img src="https://img.shields.io/github/stars/Fission-AI/OpenSpec?style=flat-square&label=stars&color=2563eb" alt="OpenSpec stars" /><br />
-    For the spec layer and how structured intent can guide execution.
-  </li>
-</ul>
-
-<h2>Current Direction</h2>
-
-<pre lang="text">Exploring  agent workflows, orchestration UX, and operator tooling
-Building   a sharper sense for which experiments deserve to become products
-Watching   the space between specs, agents, and practical business value
-Meeting    London / Lille / Paris</pre>
-
-    </td>
-    <td width="40%" valign="top">
-
-<h2>Signal</h2>
+## Signal
 
 <p>
   <img src="https://img.shields.io/badge/Agentic%20Systems-0f172a?style=flat-square&logo=github&logoColor=white" alt="Agentic systems" />
@@ -113,35 +65,54 @@ Meeting    London / Lille / Paris</pre>
   <img src="https://img.shields.io/badge/Tinkering%20with%20Intent-e11d48?style=flat-square&logo=dependabot&logoColor=white" alt="Tinkering with intent" />
 </p>
 
-<h2>Meet Me In</h2>
+## My Current Stack
 
-<p>
+- [**code-yeongyu/oh-my-openagent**](https://github.com/code-yeongyu/oh-my-openagent)  
+  <img src="https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=flat-square&label=stars&color=2563eb" alt="oh-my-openagent stars" />  
+  For orchestration ergonomics and how agent workflows can feel more native.
+
+- [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent)  
+  <img src="https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&label=stars&color=2563eb" alt="hermes-agent stars" />  
+  For model-side ideas around capable agent behavior and scaffolding.
+
+- [**Yeachan-Heo/oh-my-codex**](https://github.com/Yeachan-Heo/oh-my-codex)  
+  <img src="https://img.shields.io/github/stars/Yeachan-Heo/oh-my-codex?style=flat-square&label=stars&color=2563eb" alt="oh-my-codex stars" />  
+  For execution loops, operator experience, and multi-agent throughput.
+
+- [**obra/superpowers**](https://github.com/obra/superpowers)  
+  <img src="https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=stars&color=2563eb" alt="superpowers stars" />  
+  For taste in interfaces, tooling feel, and product energy.
+
+- [**Fission-AI/OpenSpec**](https://github.com/Fission-AI/OpenSpec)  
+  <img src="https://img.shields.io/github/stars/Fission-AI/OpenSpec?style=flat-square&label=stars&color=2563eb" alt="OpenSpec stars" />  
+  For the spec layer and how structured intent can guide execution.
+
+## Current Direction
+
+```text
+Exploring  agent workflows, orchestration UX, and operator tooling
+Building   a sharper sense for which experiments deserve to become products
+Watching   the space between specs, agents, and practical business value
+Meeting    London / Lille / Paris
+```
+
+## Meet Me In
+
 London, Lille, and Paris.
-</p>
 
-<p>
 This year I am moving between Beijing, Shanghai, and New York, so if our interests overlap, there is a decent chance we can meet somewhere interesting.
-</p>
 
-<h2>Connect</h2>
+## Connect
 
-<ul>
-  <li><a href="https://www.linkedin.com/in/sylvain-taverniers/">LinkedIn</a></li>
-  <li><a href="https://github.com/callme-sy">GitHub</a></li>
-</ul>
+- [LinkedIn](https://www.linkedin.com/in/sylvain-taverniers/)
+- [GitHub](https://github.com/callme-sy)
 
-<h2>Principles</h2>
+## Principles
 
-<ul>
-  <li>Useful beats impressive.</li>
-  <li>Taste is part of the implementation.</li>
-  <li>Tooling should improve how people think and move.</li>
-  <li>Experiments are more interesting when they can become businesses.</li>
-</ul>
-
-    </td>
-  </tr>
-</table>
+- Useful beats impressive.
+- Taste is part of the implementation.
+- Tooling should improve how people think and move.
+- Experiments are more interesting when they can become businesses.
 
 ## GitHub Pulse
 
