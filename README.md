@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=980&lines=Agentic+orchestration%2C+practical+tools%2C+and+business-minded+tinkering.;Building+systems+for+agents%2C+workflows%2C+and+useful+experiments.;Currently+between+Beijing%2C+Shanghai%2C+and+New+York."
+    src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=1100&lines=Agentic+orchestration%2C+practical+tools%2C+and+business-minded+tinkering.;Building+systems+for+agents%2C+workflows%2C+and+useful+experiments.;Between+Beijing%2C+Shanghai%2C+and+New+York+this+year+%E2%80%94+available+to+meet+in+London%2C+Lille%2C+and+Paris."
     alt="Typing introduction"
   />
 </p>
@@ -41,7 +41,7 @@ focus:
   - developer tooling
   - business-minded experiments
 currently:
-  based_in: Beijing / Shanghai / New York
+  based_in: between Beijing / Shanghai / New York this year
   building: taste for useful systems and sharper workflows
   open_to: conversations, collaborations, and good product ideas
 ```
@@ -98,9 +98,7 @@ Meeting    London / Lille / Paris
 
 ## Meet Me In
 
-London, Lille, and Paris.
-
-This year I am moving between Beijing, Shanghai, and New York, so if our interests overlap, there is a decent chance we can meet somewhere interesting.
+Available this year in London, Lille, and Paris while based between Beijing, Shanghai, and New York.
 
 ## Connect
 
