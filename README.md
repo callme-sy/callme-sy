@@ -26,8 +26,12 @@
     />
   </a>
   <img
-    src="https://img.shields.io/badge/Meet%20me%20next%20year-Lille%20%7C%20London%20%7C%20Paris-14b8a6?style=for-the-badge&labelColor=0f172a"
-    alt="Meet me next year in Lille, London, or Paris"
+    src="https://img.shields.io/badge/This%20year-Beijing%20%7C%20Shanghai%20%7C%20New%20York-2563eb?style=for-the-badge&labelColor=0f172a"
+    alt="This year in Beijing, Shanghai, and New York"
+  />
+  <img
+    src="https://img.shields.io/badge/Next%20year-Lille%20%7C%20London%20%7C%20Paris-14b8a6?style=for-the-badge&labelColor=0f172a"
+    alt="Next year in Lille, London, and Paris"
   />
 </p>
 
