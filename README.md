@@ -13,6 +13,19 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-539e43?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude-d97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/CLI-0f172a?style=flat-square&logo=gnubash&logoColor=white" alt="CLI" />
+  <img src="https://img.shields.io/badge/macOS-111827?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/SwiftUI-0ea5e9?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/Web-2563eb?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" />
+</p>
+
+<p align="center">
   <a href="https://github.com/callme-sy">
     <img
       src="https://img.shields.io/github/followers/callme-sy?style=for-the-badge&label=GitHub&labelColor=0f172a&color=2563eb"
@@ -67,6 +80,18 @@ This profile is less a portfolio of finished products and more a map of what I k
   <img src="https://img.shields.io/badge/Workflow%20Design-14b8a6?style=flat-square&logo=buffer&logoColor=white" alt="Workflow design" />
   <img src="https://img.shields.io/badge/Product%20Experiments-f59e0b?style=flat-square&logo=target&logoColor=white" alt="Product experiments" />
   <img src="https://img.shields.io/badge/Tinkering%20with%20Intent-e11d48?style=flat-square&logo=dependabot&logoColor=white" alt="Tinkering with intent" />
+</p>
+
+## GitHub Activity
+
+A quick view of recent momentum and shipping cadence.
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=callme-sy&bg_color=ffffff&color=0f172a&line=2563eb&point=14b8a6&area=true&hide_border=true"
+    alt="GitHub activity graph"
+  />
 </p>
 
 ## My Current Stack
@@ -131,20 +156,3 @@ Available next year in Lille, London, and Paris while based between Beijing, Sha
 - Taste is part of the implementation.
 - Tooling should improve how people think and move.
 - Experiments are more interesting when they can become businesses.
-
-## GitHub Pulse
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Profile-live%20on%20GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"
-    alt="Profile live on GitHub"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=callme-sy&bg_color=ffffff&color=0f172a&line=2563eb&point=14b8a6&area=true&hide_border=true"
-    alt="GitHub activity graph"
-  />
-</p>
