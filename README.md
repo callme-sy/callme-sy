@@ -82,18 +82,6 @@ This profile is less a portfolio of finished products and more a map of what I k
   <img src="https://img.shields.io/badge/Tinkering%20with%20Intent-e11d48?style=flat-square&logo=dependabot&logoColor=white" alt="Tinkering with intent" />
 </p>
 
-## Daily Contributions
-
-A simpler read on day-by-day shipping.
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://ghchart.rshah.org/22c55e/callme-sy"
-    alt="GitHub contribution chart with daily green boxes"
-  />
-</p>
-
 ## My Current Stack
 
 ### Coding CLI
