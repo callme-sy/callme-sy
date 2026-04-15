@@ -86,45 +86,27 @@ This profile is less a portfolio of finished products and more a map of what I k
 
 ### Coding CLI
 
-- [**code-yeongyu/oh-my-openagent**](https://github.com/code-yeongyu/oh-my-openagent)  
-  <img src="https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=flat-square&label=stars&color=2563eb" alt="oh-my-openagent stars" />  
-  For orchestration ergonomics and how agent workflows can feel more native.
-
-- [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent)  
-  <img src="https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&label=stars&color=2563eb" alt="hermes-agent stars" />  
-  For model-side ideas around capable agent behavior and scaffolding.
-
-- [**Yeachan-Heo/oh-my-codex**](https://github.com/Yeachan-Heo/oh-my-codex)  
-  <img src="https://img.shields.io/github/stars/Yeachan-Heo/oh-my-codex?style=flat-square&label=stars&color=2563eb" alt="oh-my-codex stars" />  
-  For execution loops, operator experience, and multi-agent throughput.
-
-- [**Factory-AI/factory (DROID)**](https://github.com/Factory-AI/factory)  
-  <img src="https://img.shields.io/github/stars/Factory-AI/factory?style=flat-square&label=stars&color=2563eb" alt="Factory DROID stars" />  
-  For an agent-native coding workflow that spans the CLI, web, and team surfaces.
+| Tool | Signal | Why I keep it around |
+| --- | --- | --- |
+| [**oh-my-openagent**](https://github.com/code-yeongyu/oh-my-openagent) | <img src="https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=flat-square&label=stars&color=2563eb" alt="oh-my-openagent stars" /> | Orchestration ergonomics and agent workflows that feel more native. |
+| [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | <img src="https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&label=stars&color=2563eb" alt="hermes-agent stars" /> | Model-side ideas around capable agent behavior and scaffolding. |
+| [**oh-my-codex**](https://github.com/Yeachan-Heo/oh-my-codex) | <img src="https://img.shields.io/github/stars/Yeachan-Heo/oh-my-codex?style=flat-square&label=stars&color=2563eb" alt="oh-my-codex stars" /> | Execution loops, operator experience, and multi-agent throughput. |
+| [**factory (DROID)**](https://github.com/Factory-AI/factory) | <img src="https://img.shields.io/github/stars/Factory-AI/factory?style=flat-square&label=stars&color=2563eb" alt="Factory DROID stars" /> | An agent-native coding workflow spanning CLI, web, and team surfaces. |
 
 ### Utilities
 
-- [**ryoppippi/ccusage**](https://github.com/ryoppippi/ccusage)  
-  <img src="https://img.shields.io/github/stars/ryoppippi/ccusage?style=flat-square&label=stars&color=2563eb" alt="ccusage stars" />  
-  For reading local Claude Code and Codex usage data quickly when I want token and cost visibility.
-
-- [**Loongphy/codex-auth**](https://github.com/Loongphy/codex-auth)  
-  <img src="https://img.shields.io/github/stars/Loongphy/codex-auth?style=flat-square&label=stars&color=2563eb" alt="codex-auth stars" />  
-  For switching and managing Codex accounts without friction.
-
-- [**obra/superpowers**](https://github.com/obra/superpowers)  
-  <img src="https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=stars&color=2563eb" alt="superpowers stars" />  
-  For taste in interfaces, tooling feel, and product energy.
-
-- [**Fission-AI/OpenSpec**](https://github.com/Fission-AI/OpenSpec)  
-  <img src="https://img.shields.io/github/stars/Fission-AI/OpenSpec?style=flat-square&label=stars&color=2563eb" alt="OpenSpec stars" />  
-  For the spec layer and how structured intent can guide execution.
+| Tool | Signal | Why I keep it around |
+| --- | --- | --- |
+| [**ccusage**](https://github.com/ryoppippi/ccusage) | <img src="https://img.shields.io/github/stars/ryoppippi/ccusage?style=flat-square&label=stars&color=2563eb" alt="ccusage stars" /> | Fast visibility into local Claude Code and Codex usage, tokens, and cost. |
+| [**codex-auth**](https://github.com/Loongphy/codex-auth) | <img src="https://img.shields.io/github/stars/Loongphy/codex-auth?style=flat-square&label=stars&color=2563eb" alt="codex-auth stars" /> | Switching and managing Codex accounts without friction. |
+| [**superpowers**](https://github.com/obra/superpowers) | <img src="https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=stars&color=2563eb" alt="superpowers stars" /> | Taste in interfaces, tooling feel, and product energy. |
+| [**OpenSpec**](https://github.com/Fission-AI/OpenSpec) | <img src="https://img.shields.io/github/stars/Fission-AI/OpenSpec?style=flat-square&label=stars&color=2563eb" alt="OpenSpec stars" /> | The spec layer and how structured intent can guide execution. |
 
 ### For Beginners Passing By
 
-- [**callme-sy/syta-super-launcher**](https://github.com/callme-sy/syta-super-launcher)  
-  <img src="https://img.shields.io/github/stars/callme-sy/syta-super-launcher?style=flat-square&label=stars&color=2563eb" alt="SYTA Super Launcher stars" />  
-  A single-file WSL-first launcher for Windows that gives newcomers one practical entry point into the AI coding setup.
+| Tool | Signal | Why it belongs here |
+| --- | --- | --- |
+| [**syta-super-launcher**](https://github.com/callme-sy/syta-super-launcher) | <img src="https://img.shields.io/github/stars/callme-sy/syta-super-launcher?style=flat-square&label=stars&color=2563eb" alt="SYTA Super Launcher stars" /> | A single-file WSL-first launcher for Windows that gives newcomers one practical entry point into the AI coding setup. |
 
 ## Current Direction
 
