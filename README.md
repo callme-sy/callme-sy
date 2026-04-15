@@ -92,12 +92,12 @@ This profile is less a portfolio of finished products and more a map of what I k
 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | <img src="https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&label=stars&color=2563eb" alt="hermes-agent stars" /> | Model-side ideas around capable agent behavior and scaffolding. |
 | [**oh-my-codex**](https://github.com/Yeachan-Heo/oh-my-codex) | <img src="https://img.shields.io/github/stars/Yeachan-Heo/oh-my-codex?style=flat-square&label=stars&color=2563eb" alt="oh-my-codex stars" /> | Execution loops, operator experience, and multi-agent throughput. |
 | [**factory (DROID)**](https://github.com/Factory-AI/factory) | <img src="https://img.shields.io/github/stars/Factory-AI/factory?style=flat-square&label=stars&color=2563eb" alt="Factory DROID stars" /> | An agent-native coding workflow spanning CLI, web, and team surfaces. |
-| [**rtk**](https://github.com/rtk-ai/rtk) | <img src="https://img.shields.io/github/stars/rtk-ai/rtk?style=flat-square&label=stars&color=2563eb" alt="rtk stars" /> | A CLI proxy that filters and summarizes noisy terminal output before it reaches model context. |
 
 ### Utilities
 
 | Tool | Signal | Why I keep it around |
 | --- | --- | --- |
+| [**rtk**](https://github.com/rtk-ai/rtk) | <img src="https://img.shields.io/github/stars/rtk-ai/rtk?style=flat-square&label=stars&color=2563eb" alt="rtk stars" /> | A CLI proxy that filters and summarizes noisy terminal output before it reaches model context. |
 | [**ccusage**](https://github.com/ryoppippi/ccusage) | <img src="https://img.shields.io/github/stars/ryoppippi/ccusage?style=flat-square&label=stars&color=2563eb" alt="ccusage stars" /> | Fast visibility into local Claude Code and Codex usage, tokens, and cost. |
 | [**codex-auth**](https://github.com/Loongphy/codex-auth) | <img src="https://img.shields.io/github/stars/Loongphy/codex-auth?style=flat-square&label=stars&color=2563eb" alt="codex-auth stars" /> | Switching and managing Codex accounts without friction. |
 | [**superpowers**](https://github.com/obra/superpowers) | <img src="https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=stars&color=2563eb" alt="superpowers stars" /> | Taste in interfaces, tooling feel, and product energy. |
