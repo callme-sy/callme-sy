@@ -82,19 +82,21 @@ This profile is less a portfolio of finished products and more a map of what I k
   <img src="https://img.shields.io/badge/Tinkering%20with%20Intent-e11d48?style=flat-square&logo=dependabot&logoColor=white" alt="Tinkering with intent" />
 </p>
 
-## GitHub Activity
+## Daily Contributions
 
-A quick view of recent momentum and shipping cadence.
+A simpler read on day-by-day shipping.
 
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=callme-sy&bg_color=ffffff&color=0f172a&line=2563eb&point=14b8a6&area=true&hide_border=true"
-    alt="GitHub activity graph"
+    src="https://ghchart.rshah.org/22c55e/callme-sy"
+    alt="GitHub contribution chart with daily green boxes"
   />
 </p>
 
 ## My Current Stack
+
+### Coding CLI
 
 - [**code-yeongyu/oh-my-openagent**](https://github.com/code-yeongyu/oh-my-openagent)  
   <img src="https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=flat-square&label=stars&color=2563eb" alt="oh-my-openagent stars" />  
@@ -108,6 +110,20 @@ A quick view of recent momentum and shipping cadence.
   <img src="https://img.shields.io/github/stars/Yeachan-Heo/oh-my-codex?style=flat-square&label=stars&color=2563eb" alt="oh-my-codex stars" />  
   For execution loops, operator experience, and multi-agent throughput.
 
+- [**Factory-AI/factory (DROID)**](https://github.com/Factory-AI/factory)  
+  <img src="https://img.shields.io/github/stars/Factory-AI/factory?style=flat-square&label=stars&color=2563eb" alt="Factory DROID stars" />  
+  For an agent-native coding workflow that spans the CLI, web, and team surfaces.
+
+### Utilities
+
+- [**ryoppippi/ccusage**](https://github.com/ryoppippi/ccusage)  
+  <img src="https://img.shields.io/github/stars/ryoppippi/ccusage?style=flat-square&label=stars&color=2563eb" alt="ccusage stars" />  
+  For reading local Claude Code and Codex usage data quickly when I want token and cost visibility.
+
+- [**Loongphy/codex-auth**](https://github.com/Loongphy/codex-auth)  
+  <img src="https://img.shields.io/github/stars/Loongphy/codex-auth?style=flat-square&label=stars&color=2563eb" alt="codex-auth stars" />  
+  For switching and managing Codex accounts without friction.
+
 - [**obra/superpowers**](https://github.com/obra/superpowers)  
   <img src="https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=stars&color=2563eb" alt="superpowers stars" />  
   For taste in interfaces, tooling feel, and product energy.
@@ -115,6 +131,12 @@ A quick view of recent momentum and shipping cadence.
 - [**Fission-AI/OpenSpec**](https://github.com/Fission-AI/OpenSpec)  
   <img src="https://img.shields.io/github/stars/Fission-AI/OpenSpec?style=flat-square&label=stars&color=2563eb" alt="OpenSpec stars" />  
   For the spec layer and how structured intent can guide execution.
+
+### For Beginners Passing By
+
+- [**callme-sy/syta-super-launcher**](https://github.com/callme-sy/syta-super-launcher)  
+  <img src="https://img.shields.io/github/stars/callme-sy/syta-super-launcher?style=flat-square&label=stars&color=2563eb" alt="SYTA Super Launcher stars" />  
+  A single-file WSL-first launcher for Windows that gives newcomers one practical entry point into the AI coding setup.
 
 ## Current Direction
 
