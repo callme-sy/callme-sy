@@ -84,16 +84,21 @@ This profile is less a portfolio of finished products and more a map of what I k
 
 ## My Current Stack
 
+### Autonomous Agents
+
+| Tool | Signal | Why I keep it around |
+| --- | --- | --- |
+| [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | <img src="https://img.shields.io/github/stars/NousResearch/hermes-agent.svg?style=flat-square&label=stars&color=2563eb" alt="hermes-agent stars" /> | An autonomous agent with memory, self-improvement instincts, and a chat surface I can actually work with. Feels like a better OpenClaw. |
+| [**openclaw**](https://github.com/openclaw/openclaw) | <img src="https://img.shields.io/github/stars/openclaw/openclaw.svg?style=flat-square&label=stars&color=2563eb" alt="openclaw stars" /> | Your own personal AI assistant that runs on any OS and any platform. The lobster way. |
+
 ### Agent Harnesses
 
 | Tool | Signal | Why I keep it around |
 | --- | --- | --- |
 | [**factory (DROID)**](https://github.com/Factory-AI/factory) | <img src="https://img.shields.io/github/stars/Factory-AI/factory.svg?style=flat-square&label=stars&color=2563eb" alt="Factory DROID stars" /> | More enterprise-shaped: missions, operators, and team workflows for when agent work starts looking operational. |
 | [**Codex**](https://github.com/openai/codex) | <img src="https://img.shields.io/github/stars/openai/codex.svg?style=flat-square&label=stars&color=2563eb" alt="Codex stars" /> | OpenAI's lightweight coding agent that runs in the terminal. The one I started with and still reach for when I want something simple and fast. |
-| [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | <img src="https://img.shields.io/github/stars/NousResearch/hermes-agent.svg?style=flat-square&label=stars&color=2563eb" alt="hermes-agent stars" /> | Feels like a better OpenClaw to me: an autonomous agent with memory, self-improvement instincts, and a chat surface I can actually work with. |
 | [**Claw-code**](https://github.com/ultraworkers/claw-code) | <img src="https://img.shields.io/github/stars/ultraworkers/claw-code.svg?style=flat-square&label=stars&color=2563eb" alt="Claw-code stars" /> | The fastest-growing coding agent harness I have seen. Built in Rust, feels snappy, and the community around it is moving fast. |
 | [**OpenClaude**](https://github.com/Gitlawb/openclaude) | <img src="https://img.shields.io/github/stars/Gitlawb/openclaude.svg?style=flat-square&label=stars&color=2563eb" alt="OpenClaude stars" /> | Open-source coding-agent CLI that runs anywhere and uses anything. Good for when I want to swap providers without friction. |
-| [**OpenAgent**](https://github.com/the-open-agent/openagent) | <img src="https://img.shields.io/github/stars/the-open-agent/openagent.svg?style=flat-square&label=stars&color=2563eb" alt="OpenAgent stars" /> | Next-generation personal AI assistant with agent loops. Broader than just coding, which makes it interesting for workflows that cross into browser and computer use. |
 
 ### Harness Customisations
 
