@@ -1,64 +1,26 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,45:2563eb,100:14b8a6&text=Sylvain%20T.&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AGENTIC%20ORCHESTRATION%20%E2%80%A2%20TOOLS%20%E2%80%A2%20BUSINESS-MINDED%20EXPERIMENTS&descAlignY=60&descSize=18"
-    alt="Header banner for Sylvain T."
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,45:2563eb,100:14b8a6&text=callme-sy&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AGENTIC%20ORCHESTRATION%20%E2%80%A2%20TOOLS%20%E2%80%A2%20BUSINESS-MINDED%20EXPERIMENTS&descAlignY=60&descSize=18"
+    alt="Header banner for callme-sy"
   />
 </div>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=1100&lines=Agentic+orchestration%2C+practical+tools%2C+and+business-minded+tinkering.;Building+systems+for+agents%2C+workflows%2C+and+useful+experiments.;Between+Beijing%2C+Shanghai%2C+and+New+York+this+year.;Available+to+meet+in+Lille%2C+London%2C+and+Paris+next+year."
+    src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=1100&lines=Agentic+orchestration%2C+practical+tools%2C+and+business-minded+tinkering.;Building+systems+for+agents%2C+workflows%2C+and+useful+experiments."
     alt="Typing introduction"
-  />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-539e43?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Claude-d97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/CLI-0f172a?style=flat-square&logo=gnubash&logoColor=white" alt="CLI" />
-  <img src="https://img.shields.io/badge/macOS-111827?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/SwiftUI-0ea5e9?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Web-2563eb?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/callme-sy">
-    <img
-      src="https://img.shields.io/github/followers/callme-sy?style=for-the-badge&label=GitHub&labelColor=0f172a&color=2563eb"
-      alt="GitHub followers"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/sylvain-taverniers/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Sylvain%20T.-0A66C2?style=for-the-badge&labelColor=0f172a"
-      alt="LinkedIn profile"
-    />
-  </a>
-  <img
-    src="https://img.shields.io/badge/This%20year-Beijing%20%7C%20Shanghai%20%7C%20New%20York-2563eb?style=for-the-badge&labelColor=0f172a"
-    alt="This year in Beijing, Shanghai, and New York"
-  />
-  <img
-    src="https://img.shields.io/badge/Next%20year-Lille%20%7C%20London%20%7C%20Paris-14b8a6?style=for-the-badge&labelColor=0f172a"
-    alt="Next year in Lille, London, and Paris"
   />
 </p>
 
 ## Snapshot
 
 ```yaml
-name: Sylvain T.
 username: callme-sy
 focus:
   - agentic orchestration
   - developer tooling
   - business-minded experiments
 currently:
-  based_in: between Beijing / Shanghai / New York this year
   building: taste for useful systems and sharper workflows
   open_to: conversations, collaborations, and good product ideas
 ```
@@ -140,22 +102,12 @@ Available next year in Lille, London, and Paris while based between Beijing, Sha
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sylvain-taverniers/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Sylvain%20T.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"
-      alt="LinkedIn"
-    />
-  </a>
   <a href="https://github.com/callme-sy">
     <img
       src="https://img.shields.io/badge/GitHub-callme--sy-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"
       alt="GitHub"
     />
   </a>
-</p>
-
-<p align="center">
-  LinkedIn is the best public way to reach me.
 </p>
 
 ## Proxy
