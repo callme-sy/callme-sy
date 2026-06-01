@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,45:2563eb,100:14b8a6&text=callme-sy&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AGENTIC%20ORCHESTRATION%20%E2%80%A2%20TOOLS%20%E2%80%A2%20BUSINESS-MINDED%20EXPERIMENTS&descAlignY=60&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,45:2563eb,100:14b8a6&text=Sylvain%20T.&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AGENTIC%20ORCHESTRATION%20%E2%80%A2%20TOOLS%20%E2%80%A2%20BUSINESS-MINDED%20EXPERIMENTS&descAlignY=60&descSize=18"
     alt="Header banner for callme-sy"
   />
 </div>
